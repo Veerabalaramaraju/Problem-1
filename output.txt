@@ -1,0 +1,25 @@
+
+The Sales of 2021 for a Tea Time Coffee Shop :
+{Tea:100.0}
+{Coffee:250.0}
+{Green tea:50.0}
+{Orange Soda:180.0}
+{Lemon soda:220.0}
+The Sales of 2022 for a Tea Time Coffee Shop :
+{Tea:120.0}
+{Coffee:230.0}
+{Green tea:60.0}
+{Orange Soda:210.0}
+{Lemon soda:205.0}
+The Difference of the products in Tea Time Coffee Shop while compare with price of 2021 :
+Tea  20.0
+Coffee  -20.0
+Green tea  10.0
+Orange Soda  30.0
+Lemon soda  -15.0
+The Difference percentage of the products in Tea Time Coffee Shop while compare with price of 2021 :
+Tea  16.666666666666664
+Coffee  8.695652173913043
+Green tea  16.666666666666664
+Orange Soda  14.285714285714285
+Lemon soda  7.317073170731707
